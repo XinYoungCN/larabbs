@@ -35,5 +35,6 @@ class TopicsTableSeeder extends Seeder
         Topic::insert($topics->toArray());
     }
 
+
 }
 
